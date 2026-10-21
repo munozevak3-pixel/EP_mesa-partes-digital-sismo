@@ -5,6 +5,6 @@ Sistema de gestión para mesa de partes desarrollado en Python para el registro,
 ## Integrantes del Grupo
 * Muñoz Evak
 * Anyelo
-* EVAK
+* Juan
 * Anthony
 * Eduard David
